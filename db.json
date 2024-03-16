@@ -1,0 +1,32 @@
+{
+  "fruits": [
+    {
+      "imageUrl": "https://th.bing.com/th/id/OIP.HFjE6ZkJlx-7LM8EnnPsWQHaGI?pid=ImgDet&rs=1",
+      "id": 1,
+      "name": "Mangai",
+      "quantity": 1,
+      "price": 50
+    },
+    {
+      "name": "apple",
+      "quantity": 2,
+      "price": 220,
+      "imageUrl": "https://th.bing.com/th/id/R.cc218d0b9f75747dcba3124f6a27c057?rik=f6nta9TqcKBw8A&riu=http%3a%2f%2f2.bp.blogspot.com%2f-hdkXfWeRV4A%2fTdizZhkLhhI%2fAAAAAAAAHUA%2fGlC3S4HL8vE%2fs1600%2f139865_1.jpg&ehk=bbwjHMEioXz7X1Fo4e%2b7q5zksOCAv8h5Rw8gKs7sGw8%3d&risl=&pid=ImgRaw&r=0",
+      "id": 3
+    },
+    {
+      "name": "Jack Fruit",
+      "quantity": 1,
+      "price": 300,
+      "imageUrl": "https://images.eatthismuch.com/site_media/img/1426_calvin_krause_1f80ee29-299b-4640-9cae-f641f9899c1c.png",
+      "id": 4
+    },
+    {
+      "name": "Grapes",
+      "quantity": 2,
+      "price": 100,
+      "imageUrl": "https://th.bing.com/th/id/R.28d1c9dd98f97cca56a351e1b3deee0f?rik=V9vVsHbOOViWVw&riu=http%3a%2f%2fweknowyourdreams.com%2fimages%2fgrapes%2fgrapes-02.jpg&ehk=gW7u0v1vlYi%2fWLser9zzkJpw2W4BofaSRK4XfrJ3weI%3d&risl=1&pid=ImgRaw&r=0",
+      "id": 5
+    }
+  ]
+}
